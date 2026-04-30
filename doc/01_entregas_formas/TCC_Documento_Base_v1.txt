@@ -1,0 +1,30 @@
+========================================================
+TÍTULO DO PROJETO: CosNexus
+DATA: 30/04/2026
+========================================================
+
+1. INTRODUCAO
+--------------------------------------------------------
+(Descreva o contexto geral aqui. Qual é a dor ou o problema 
+que o sistema de vocês vai resolver? Qual é o cenário atual?)
+
+
+2. OBJETIVOS
+--------------------------------------------------------
+[OBJETIVO GERAL]
+(O que o sistema faz em uma frase. Ex: Desenvolver um 
+sistema web para gestão de...)
+
+[OBJETIVOS ESPECIFICOS]
+- Levantar requisitos funcionais e nao funcionais.
+- (Adicione outras etapas técnicas do projeto aqui)
+- 
+
+
+3. REVISAO DA LITERATURA (ESTADO DA ARTE)
+--------------------------------------------------------
+(Quais sistemas concorrentes ou parecidos ja existem? 
+Quais bases teóricas vocês estão usando?)
+- Referencia 1: (Nome do sistema/livro) - (Breve analise)
+- Referencia 2: 
+- Referencia 3:
