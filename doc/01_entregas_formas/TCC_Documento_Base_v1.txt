@@ -5,8 +5,10 @@ DATA: 30/04/2026
 
 1. INTRODUCAO
 --------------------------------------------------------
-(Descreva o contexto geral aqui. Qual é a dor ou o problema 
-que o sistema de vocês vai resolver? Qual é o cenário atual?)
+O mercado atual de cosméticos dermatológicos apresenta 
+uma lacuna significativa entre restrições dos clientes
+(como alergias, restrições químicas, preferências veganas)
+e a oferta direta das farmácias e laboratórios
 
 
 2. OBJETIVOS
